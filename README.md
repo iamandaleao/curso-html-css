@@ -1,6 +1,6 @@
 # Módulo 05 – HTML5 + CSS3 Avançado (Em andamento)
 
-Olá! Sou Amanda e este repositório reúne os exercícios que estou fazendo no Módulo 05 do curso gratuito de HTML5 + CSS3, com o professor Gustavo Guanabara. O módulo ainda está em andamento, mas já comecei a aplicar várias técnicas avançadas para criar layouts modernos, dinâmicos e responsivos.
+Este repositório reúne os exercícios que estou fazendo no Módulo 05 do curso gratuito de HTML5 + CSS3, com o professor Gustavo Guanabara. O módulo ainda está em andamento, mas já comecei a aplicar várias técnicas avançadas para criar layouts modernos, dinâmicos e responsivos.
 
 ## Tecnologias utilizadas  
 - HTML5  
