@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width, initial-scale=1.0" />
+    <title>Grid Layout na prática</title>
+    <style>
+      div.container {
+        border: 3px solid blue;
+        height: 250px;
+        display: grid;
+
+        /* 
+      Forma completa:
+      grid-template-rows: auto auto auto;
+      grid-template-columns: auto auto auto;
+
+      Forma resumida com grid-template:
+      (primeiro as linhas, depois as colunas, separadas por '/')
+    */
+        grid-template: repeat(3, auto) / repeat(3, auto);
+
+        gap: 10px;
+
+        /* 
+      Forma completa:
+      align-items: start;
+      justify-items: center;
+
+      Forma resumida com place-items:
+      (primeiro o align, depois o justify)
+    */
+        place-items: start center;
+
+        /* 
+      Forma completa:
+      align-content: space-between;
+      justify-content: end;
+
+      Forma resumida com place-content:
+      (primeiro o align, depois o justify)
+    */
+        place-content: space-between end;
+      }
+      div.item {
+        border: 3px solid red;
+        padding: 5px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="item">A</div>
+      <div class="item">B</div>
+      <div class="item">C</div>
+      <div class="item">D</div>
+      <div class="item">E</div>
+      <div class="item">F</div>
+      <div class="item">G</div>
+      <div class="item">H</div>
+    </div>
+  </body>
+</html>
