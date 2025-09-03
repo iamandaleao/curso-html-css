@@ -54,12 +54,12 @@ Este repositório contém minha jornada de aprendizado em **HTML5** e **CSS3**, 
 
 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/modulo-html-css.git
+git clone https://github.com/seu-usuario/curso-html-css.git
 ```
 
 2. Navegue até a pasta do projeto
 ```bash
-cd modulo-html-css
+cd curso-html-css
 ```
 
 3. Abra os arquivos HTML no seu navegador preferido
