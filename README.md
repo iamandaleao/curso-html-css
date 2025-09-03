@@ -1,19 +1,87 @@
-# Módulo 05 – HTML5 + CSS3
+# 🎨 Módulo 05 – HTML5 + CSS3
 
-Este repositório reúne os exercícios que estou fazendo no Módulo 05 do curso gratuito de HTML5 + CSS3, com o professor Gustavo Guanabara. O módulo ainda está em andamento, mas já comecei a aplicar várias técnicas avançadas para criar layouts modernos, dinâmicos e responsivos.
+<div align="center">
+  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Status](https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge)
+  
+</div>
 
-## Tecnologias utilizadas  
-- HTML5  
-- CSS3 (Flexbox, Grid, Media Queries, Animações)  
+## 📋 Sobre o Projeto
 
-## O que venho aprendendo  
-Neste módulo, tenho focado em dominar o Flexbox para criar estruturas flexíveis, controlar alinhamento e distribuição dos elementos. Também estudo CSS Grid, que facilita a criação de layouts complexos. Aprendi a usar media queries para adaptar o design a diferentes tamanhos de tela, garantindo responsividade.
+Este repositório contém minha jornada de aprendizado em **HTML5** e **CSS3**, com foco no desenvolvimento de interfaces modernas e responsivas. Aqui você encontrará exercícios práticos e projetos que demonstram a evolução das minhas habilidades em front-end.
 
-Além disso, explorei transições e animações em CSS para melhorar a experiência do usuário, e técnicas de organização do código para manter projetos limpos e escaláveis.
+## 🚀 Tecnologias Utilizadas
 
-## Sobre os exercícios realizados  
-Nos exercícios, construí menus responsivos com Flexbox, pratiquei o alinhamento e dimensionamento de itens flexíveis, e criei layouts com CSS Grid aplicando múltiplas colunas e linhas. Também implementei media queries para adaptar o visual a dispositivos variados e adicionei transições suaves para elementos interativos.
+- **HTML5** - Estruturação semântica
+- **CSS3** - Estilização avançada
+  - Flexbox
+  - CSS Grid
+  - Media Queries
+  - Animações e Transições
 
-Esses exercícios foram essenciais para aplicar os conceitos estudados e aprimorar minha habilidade em criar interfaces limpas, funcionais e responsivas.
+## 🎯 Principais Aprendizados
 
-Ainda estou acompanhando as aulas, mas já sinto evolução no meu entendimento e prática de front-end com HTML5 e CSS3.
+### 🔧 Flexbox
+- Criação de layouts flexíveis e responsivos
+- Controle avançado de alinhamento e distribuição
+- Estruturas dinâmicas que se adaptam ao conteúdo
+
+### 🎛️ CSS Grid
+- Layouts complexos de forma simplificada
+- Controle preciso de linhas e colunas
+- Organização eficiente do espaço visual
+
+### 📱 Responsividade
+- Media queries para diferentes dispositivos
+- Design mobile-first
+- Adaptação fluida entre breakpoints
+
+### ✨ Interatividade
+- Transições suaves e animações
+- Melhor experiência do usuário
+- Elementos visuais dinâmicos
+
+## 💻 Exercícios Desenvolvidos
+
+- 🍔 **Menus Responsivos** - Navegação adaptável usando Flexbox
+- 📐 **Layouts com Grid** - Estruturas complexas organizadas
+- 📱 **Design Responsivo** - Interfaces que se adaptam a qualquer tela
+- 🎭 **Elementos Interativos** - Componentes com animações fluidas
+
+## 🏗️ Como Executar
+
+1. Clone o repositório
+```bash
+git clone https://github.com/seu-usuario/modulo-html-css.git
+```
+
+2. Navegue até a pasta do projeto
+```bash
+cd modulo-html-css
+```
+
+3. Abra os arquivos HTML no seu navegador preferido
+
+## 📈 Progresso
+
+- [x] Fundamentos de HTML5 semântico
+- [x] CSS3 básico e intermediário
+- [x] Flexbox completo
+- [x] CSS Grid layout
+- [x] Design responsivo
+- [x] Animações e transições
+- [x] Boas práticas de organização
+
+## 🤝 Contribuições
+
+Sugestões e feedbacks são sempre bem-vindos!
+
+<div align="center">
+  
+  **Desenvolvido com 💜 por Amanda Leão**
+  
+  *Concluído em 29/07/2025*
+  
+</div>
