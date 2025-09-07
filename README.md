@@ -45,10 +45,10 @@ Este repositório contém minha jornada de aprendizado em **HTML5** e **CSS3**, 
 
 ## 💻 Exercícios Desenvolvidos
 
-- 🍔 **Menus Responsivos** - Navegação adaptável usando Flexbox
-- 📐 **Layouts com Grid** - Estruturas complexas organizadas
-- 📱 **Design Responsivo** - Interfaces que se adaptam a qualquer tela
-- 🎭 **Elementos Interativos** - Componentes com animações fluidas
+- **Menus Responsivos** - Navegação adaptável usando Flexbox
+- **Layouts com Grid** - Estruturas complexas organizadas
+- **Design Responsivo** - Interfaces que se adaptam a qualquer tela
+- **Elementos Interativos** - Componentes com animações fluidas
 
 ## 📈 Progresso
 
