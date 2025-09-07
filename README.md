@@ -65,8 +65,7 @@ Este repositório contém minha jornada de aprendizado em **HTML5** e **CSS3**, 
 Sugestões e feedbacks são sempre bem-vindos!
 
 <div align="center">
-  
-  **Desenvolvido com 💜 por Amanda Leão**
+  Desenvolvido com ❤️ por <a href="https://www.linkedin.com/in/iamandaleao/" target="_blank">Amanda Leão</a>
   
   *Concluído em 29/07/2025*
   
